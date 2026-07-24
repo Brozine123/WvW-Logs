@@ -1,0 +1,30 @@
+{
+  "colorPalette": "electric-blue",
+  "glassSurfaces": false,
+  "glassmorphic": false,
+  "entries": [
+    {
+      "id": "20260722-210143-b0qo",
+      "title": "Atros Sandveil",
+      "commanders": [
+        "Atros Sandveil"
+      ],
+      "dateStart": "2026-07-23T01:01:43.000Z",
+      "dateEnd": "2026-07-23T02:49:40.000Z",
+      "dateLabel": "7/22/2026, 9:01:43 PM - 7/22/2026, 10:49:40 PM",
+      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260722-210143-b0qo",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 35,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 16,
+        "avgEnemySize": 37
+      }
+    }
+  ]
+}
