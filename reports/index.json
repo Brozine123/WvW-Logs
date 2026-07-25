@@ -1,8 +1,38 @@
 {
   "colorPalette": "electric-blue",
-  "glassSurfaces": false,
+  "glassSurfaces": true,
   "glassmorphic": false,
   "entries": [
+    {
+      "id": "20260724-080737-21ee",
+      "title": "Asgeror Dwaindottir, Neri Misses Holo, The Deadly Koala",
+      "commanders": [
+        "Asgeror Dwaindottir",
+        "Neri Misses Holo",
+        "The Deadly Koala"
+      ],
+      "dateStart": "2026-07-24T12:07:37.000Z",
+      "dateEnd": "2026-07-25T02:26:36.000Z",
+      "dateLabel": "7/24/2026, 8:07:37 AM - 7/24/2026, 10:26:36 PM",
+      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260724-080737-21ee",
+      "summary": {
+        "borderlandsPct": 0.9310344827586207,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 27,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 2,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 23,
+        "avgEnemySize": 41
+      }
+    },
     {
       "id": "20260722-210143-b0qo",
       "title": "Atros Sandveil",
