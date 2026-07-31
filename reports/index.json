@@ -4,6 +4,40 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260728-211002-vflo",
+      "title": "Ravenkha Sturm, Twnsoull",
+      "commanders": [
+        "Ravenkha Sturm",
+        "Twnsoull"
+      ],
+      "guild": {
+        "id": "EC67C65C-EFE6-EE11-BA1F-124BD09C5957",
+        "name": "Defiance Of The Fearless",
+        "tag": "DTF"
+      },
+      "dateStart": "2026-07-29T01:10:02.000Z",
+      "dateEnd": "2026-07-29T22:49:47.000Z",
+      "dateLabel": "7/28/2026, 9:10:02 PM - 7/29/2026, 6:49:47 PM",
+      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260728-211002-vflo",
+      "summary": {
+        "borderlandsPct": 0.5,
+        "mapSlices": [
+          {
+            "name": "Blue Borderlands",
+            "value": 3,
+            "color": "#3b82f6"
+          },
+          {
+            "name": "Eternal Battlegrounds",
+            "value": 3,
+            "color": "#ffffff"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 40
+      }
+    },
+    {
       "id": "20260727-221458-ywkn",
       "title": "Atros Sandveil",
       "commanders": [
