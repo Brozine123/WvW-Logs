@@ -1,210 +1,172 @@
-{
-  "colorPalette": "electric-blue",
-  "glassSurfaces": true,
-  "glassmorphic": false,
-  "entries": [
-    {
-      "id": "20260801-221557-ca9e",
-      "title": "Atros Sandveil",
-      "commanders": [
-        "Atros Sandveil"
-      ],
-      "guild": {
-        "id": "D1177FE0-BE2D-E411-BE98-E4115BDFC985",
-        "name": "Shrouded Warband",
-        "tag": "ShW"
-      },
-      "dateStart": "2026-08-02T02:15:57.000Z",
-      "dateEnd": "2026-08-02T03:03:25.000Z",
-      "dateLabel": "8/1/2026, 10:15:57 PM - 8/1/2026, 11:03:25 PM",
-      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260801-221557-ca9e",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 22,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 15,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 36
-      }
+[
+  {
+    "id": "20260801-221557-ca9e",
+    "title": "Atros Sandveil",
+    "commanders": [
+      "Atros Sandveil"
+    ],
+    "guild": {
+      "id": "D1177FE0-BE2D-E411-BE98-E4115BDFC985",
+      "name": "Shrouded Warband",
+      "tag": "ShW"
     },
-    {
-      "id": "20260801-221557-w41a",
-      "title": "Atros Sandveil",
-      "commanders": [
-        "Atros Sandveil"
+    "dateStart": "2026-08-02T02:15:57.000Z",
+    "dateEnd": "2026-08-02T03:03:25.000Z",
+    "dateLabel": "8/1/2026, 10:15:57 PM - 8/1/2026, 11:03:25 PM",
+    "url": "https://Brozine123.github.io/WvW-Logs/?report=20260801-221557-ca9e",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 22,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Red Borderlands",
+          "value": 15,
+          "color": "#ef4444"
+        }
       ],
-      "guild": {
-        "id": "D1177FE0-BE2D-E411-BE98-E4115BDFC985",
-        "name": "Shrouded Warband",
-        "tag": "ShW"
-      },
-      "dateStart": "2026-08-02T02:15:57.000Z",
-      "dateEnd": "2026-08-02T03:03:25.000Z",
-      "dateLabel": "8/1/2026, 10:15:57 PM - 8/1/2026, 11:03:25 PM",
-      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260801-221557-w41a",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 22,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Red Borderlands",
-            "value": 15,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 36
-      }
-    },
-    {
-      "id": "20260727-221458-ywkn",
-      "title": "Atros Sandveil",
-      "commanders": [
-        "Atros Sandveil"
-      ],
-      "dateStart": "2026-07-28T02:14:58.000Z",
-      "dateEnd": "2026-07-28T03:06:20.000Z",
-      "dateLabel": "7/27/2026, 10:14:58 PM - 7/27/2026, 11:06:20 PM",
-      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260727-221458-ywkn",
-      "summary": {
-        "borderlandsPct": 0.5428571428571428,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 19,
-            "color": "#ef4444"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 16,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 26,
-        "avgEnemySize": 33
-      }
-    },
-    {
-      "id": "20260726-210449-j5qd",
-      "title": "Atros Sandveil",
-      "commanders": [
-        "Atros Sandveil"
-      ],
-      "dateStart": "2026-07-27T01:04:49.000Z",
-      "dateEnd": "2026-07-27T02:11:24.000Z",
-      "dateLabel": "7/26/2026, 9:04:49 PM - 7/26/2026, 10:11:24 PM",
-      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260726-210449-j5qd",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Blue Borderlands",
-            "value": 11,
-            "color": "#3b82f6"
-          },
-          {
-            "name": "Green Borderlands",
-            "value": 8,
-            "color": "#22c55e"
-          }
-        ],
-        "avgSquadSize": 21,
-        "avgEnemySize": 33
-      }
-    },
-    {
-      "id": "20260725-205345-vj3f",
-      "title": "Atros Sandveil",
-      "commanders": [
-        "Atros Sandveil"
-      ],
-      "dateStart": "2026-07-26T00:53:45.000Z",
-      "dateEnd": "2026-07-26T02:41:45.000Z",
-      "dateLabel": "7/25/2026, 8:53:45 PM - 7/25/2026, 10:41:45 PM",
-      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260725-205345-vj3f",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 36,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Blue Borderlands",
-            "value": 7,
-            "color": "#3b82f6"
-          }
-        ],
-        "avgSquadSize": 20,
-        "avgEnemySize": 47
-      }
-    },
-    {
-      "id": "20260724-080737-skaj",
-      "title": "Asgeror Dwaindottir, Neri Misses Holo, The Deadly Koala",
-      "commanders": [
-        "Asgeror Dwaindottir",
-        "Neri Misses Holo",
-        "The Deadly Koala"
-      ],
-      "dateStart": "2026-07-24T12:07:37.000Z",
-      "dateEnd": "2026-07-25T02:27:54.000Z",
-      "dateLabel": "7/24/2026, 8:07:37 AM - 7/24/2026, 10:27:54 PM",
-      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260724-080737-skaj",
-      "summary": {
-        "borderlandsPct": 0.9310344827586207,
-        "mapSlices": [
-          {
-            "name": "Green Borderlands",
-            "value": 27,
-            "color": "#22c55e"
-          },
-          {
-            "name": "Eternal Battlegrounds",
-            "value": 2,
-            "color": "#ffffff"
-          }
-        ],
-        "avgSquadSize": 23,
-        "avgEnemySize": 41
-      }
-    },
-    {
-      "id": "20260722-210143-b0qo",
-      "title": "Atros Sandveil",
-      "commanders": [
-        "Atros Sandveil"
-      ],
-      "dateStart": "2026-07-23T01:01:43.000Z",
-      "dateEnd": "2026-07-23T02:49:40.000Z",
-      "dateLabel": "7/22/2026, 9:01:43 PM - 7/22/2026, 10:49:40 PM",
-      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260722-210143-b0qo",
-      "summary": {
-        "borderlandsPct": 1,
-        "mapSlices": [
-          {
-            "name": "Red Borderlands",
-            "value": 35,
-            "color": "#ef4444"
-          }
-        ],
-        "avgSquadSize": 16,
-        "avgEnemySize": 37
-      }
+      "avgSquadSize": 23,
+      "avgEnemySize": 36
     }
-  ]
-}
+  },
+  {
+    "id": "20260727-221458-ywkn",
+    "title": "Atros Sandveil",
+    "commanders": [
+      "Atros Sandveil"
+    ],
+    "dateStart": "2026-07-28T02:14:58.000Z",
+    "dateEnd": "2026-07-28T03:06:20.000Z",
+    "dateLabel": "7/27/2026, 10:14:58 PM - 7/27/2026, 11:06:20 PM",
+    "url": "https://Brozine123.github.io/WvW-Logs/?report=20260727-221458-ywkn",
+    "summary": {
+      "borderlandsPct": 0.5428571428571428,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 19,
+          "color": "#ef4444"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 16,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 26,
+      "avgEnemySize": 33
+    }
+  },
+  {
+    "id": "20260726-210449-j5qd",
+    "title": "Atros Sandveil",
+    "commanders": [
+      "Atros Sandveil"
+    ],
+    "dateStart": "2026-07-27T01:04:49.000Z",
+    "dateEnd": "2026-07-27T02:11:24.000Z",
+    "dateLabel": "7/26/2026, 9:04:49 PM - 7/26/2026, 10:11:24 PM",
+    "url": "https://Brozine123.github.io/WvW-Logs/?report=20260726-210449-j5qd",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Blue Borderlands",
+          "value": 11,
+          "color": "#3b82f6"
+        },
+        {
+          "name": "Green Borderlands",
+          "value": 8,
+          "color": "#22c55e"
+        }
+      ],
+      "avgSquadSize": 21,
+      "avgEnemySize": 33
+    }
+  },
+  {
+    "id": "20260725-205345-vj3f",
+    "title": "Atros Sandveil",
+    "commanders": [
+      "Atros Sandveil"
+    ],
+    "dateStart": "2026-07-26T00:53:45.000Z",
+    "dateEnd": "2026-07-26T02:41:45.000Z",
+    "dateLabel": "7/25/2026, 8:53:45 PM - 7/25/2026, 10:41:45 PM",
+    "url": "https://Brozine123.github.io/WvW-Logs/?report=20260725-205345-vj3f",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 36,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Blue Borderlands",
+          "value": 7,
+          "color": "#3b82f6"
+        }
+      ],
+      "avgSquadSize": 20,
+      "avgEnemySize": 47
+    }
+  },
+  {
+    "id": "20260724-080737-skaj",
+    "title": "Asgeror Dwaindottir, Neri Misses Holo, The Deadly Koala",
+    "commanders": [
+      "Asgeror Dwaindottir",
+      "Neri Misses Holo",
+      "The Deadly Koala"
+    ],
+    "dateStart": "2026-07-24T12:07:37.000Z",
+    "dateEnd": "2026-07-25T02:27:54.000Z",
+    "dateLabel": "7/24/2026, 8:07:37 AM - 7/24/2026, 10:27:54 PM",
+    "url": "https://Brozine123.github.io/WvW-Logs/?report=20260724-080737-skaj",
+    "summary": {
+      "borderlandsPct": 0.9310344827586207,
+      "mapSlices": [
+        {
+          "name": "Green Borderlands",
+          "value": 27,
+          "color": "#22c55e"
+        },
+        {
+          "name": "Eternal Battlegrounds",
+          "value": 2,
+          "color": "#ffffff"
+        }
+      ],
+      "avgSquadSize": 23,
+      "avgEnemySize": 41
+    }
+  },
+  {
+    "id": "20260722-210143-b0qo",
+    "title": "Atros Sandveil",
+    "commanders": [
+      "Atros Sandveil"
+    ],
+    "dateStart": "2026-07-23T01:01:43.000Z",
+    "dateEnd": "2026-07-23T02:49:40.000Z",
+    "dateLabel": "7/22/2026, 9:01:43 PM - 7/22/2026, 10:49:40 PM",
+    "url": "https://Brozine123.github.io/WvW-Logs/?report=20260722-210143-b0qo",
+    "summary": {
+      "borderlandsPct": 1,
+      "mapSlices": [
+        {
+          "name": "Red Borderlands",
+          "value": 35,
+          "color": "#ef4444"
+        }
+      ],
+      "avgSquadSize": 16,
+      "avgEnemySize": 37
+    }
+  }
+]
