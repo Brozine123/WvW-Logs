@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260803-220955-5kvw",
+      "title": "Atros Sandveil",
+      "commanders": [
+        "Atros Sandveil"
+      ],
+      "guild": {
+        "id": "00000000-0000-0000-0000-000000000000",
+        "name": null,
+        "tag": null
+      },
+      "dateStart": "2026-08-04T02:09:55.000Z",
+      "dateEnd": "2026-08-04T02:59:58.000Z",
+      "dateLabel": "8/3/2026, 10:09:55 PM - 8/3/2026, 10:59:58 PM",
+      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260803-220955-5kvw",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 26,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Red Borderlands",
+            "value": 3,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 38,
+        "avgEnemySize": 49
+      }
+    },
+    {
       "id": "20260802-210641-wn0k",
       "title": "Atros Sandveil, Atros Shroudcowl",
       "commanders": [
