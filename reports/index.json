@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260807-223938-6ewc",
+      "title": "Tony The Tortoise",
+      "commanders": [
+        "Tony The Tortoise"
+      ],
+      "guild": {
+        "id": "65A0E5D5-6518-EB11-81AA-A77AA130EAB8",
+        "name": "Flying Tortoises",
+        "tag": "FTL"
+      },
+      "dateStart": "2026-08-08T02:39:38.000Z",
+      "dateEnd": "2026-08-08T03:27:53.000Z",
+      "dateLabel": "8/7/2026, 10:39:38 PM - 8/7/2026, 11:27:53 PM",
+      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260807-223938-6ewc",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 21,
+        "avgEnemySize": 65
+      }
+    },
+    {
       "id": "20260803-220955-5kvw",
       "title": "Atros Sandveil",
       "commanders": [
