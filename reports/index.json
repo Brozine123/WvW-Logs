@@ -4,6 +4,34 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260808-213225-s64t",
+      "title": "Twnnsoul",
+      "commanders": [
+        "Twnnsoul"
+      ],
+      "guild": {
+        "id": "EC67C65C-EFE6-EE11-BA1F-124BD09C5957",
+        "name": "Defiance Of The Fearless",
+        "tag": "DTF"
+      },
+      "dateStart": "2026-08-09T01:32:25.000Z",
+      "dateEnd": "2026-08-09T02:21:00.000Z",
+      "dateLabel": "8/8/2026, 9:32:25 PM - 8/8/2026, 10:21:00 PM",
+      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260808-213225-s64t",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 20,
+            "color": "#ef4444"
+          }
+        ],
+        "avgSquadSize": 28,
+        "avgEnemySize": 36
+      }
+    },
+    {
       "id": "20260807-223938-6ewc",
       "title": "Tony The Tortoise",
       "commanders": [
