@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260815-213210-nzp2",
+      "title": "Twnnsoul",
+      "commanders": [
+        "Twnnsoul"
+      ],
+      "guild": {
+        "id": "EC67C65C-EFE6-EE11-BA1F-124BD09C5957",
+        "name": "Defiance Of The Fearless",
+        "tag": "DTF"
+      },
+      "dateStart": "2026-08-16T01:32:10.000Z",
+      "dateEnd": "2026-08-16T02:32:31.000Z",
+      "dateLabel": "8/15/2026, 9:32:10 PM - 8/15/2026, 10:32:31 PM",
+      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260815-213210-nzp2",
+      "summary": {
+        "borderlandsPct": 0.5454545454545454,
+        "mapSlices": [
+          {
+            "name": "Red Borderlands",
+            "value": 12,
+            "color": "#ef4444"
+          },
+          {
+            "name": "Obsidian Sanctum",
+            "value": 10,
+            "color": "#64748b"
+          }
+        ],
+        "avgSquadSize": 27,
+        "avgEnemySize": 37
+      }
+    },
+    {
       "id": "20260810-221853-ci2h",
       "title": "Alàide",
       "commanders": [
