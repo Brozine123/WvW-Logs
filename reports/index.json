@@ -4,6 +4,39 @@
   "glassmorphic": false,
   "entries": [
     {
+      "id": "20260817-221239-3l2s",
+      "title": "Alàide",
+      "commanders": [
+        "Alàide"
+      ],
+      "guild": {
+        "id": "D1177FE0-BE2D-E411-BE98-E4115BDFC985",
+        "name": "Shrouded Warband",
+        "tag": "ShW"
+      },
+      "dateStart": "2026-08-18T02:12:39.000Z",
+      "dateEnd": "2026-08-18T03:02:08.000Z",
+      "dateLabel": "8/17/2026, 10:12:39 PM - 8/17/2026, 11:02:08 PM",
+      "url": "https://Brozine123.github.io/WvW-Logs/?report=20260817-221239-3l2s",
+      "summary": {
+        "borderlandsPct": 1,
+        "mapSlices": [
+          {
+            "name": "Green Borderlands",
+            "value": 21,
+            "color": "#22c55e"
+          },
+          {
+            "name": "Blue Borderlands",
+            "value": 14,
+            "color": "#3b82f6"
+          }
+        ],
+        "avgSquadSize": 30,
+        "avgEnemySize": 43
+      }
+    },
+    {
       "id": "20260815-213210-nzp2",
       "title": "Twnnsoul",
       "commanders": [
